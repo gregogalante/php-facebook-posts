@@ -1,6 +1,6 @@
 # PHP Facebook posts
 
-A simplest script to get last posts from Facebook pages.
+The simplest script to get last posts from Facebook pages.
 
 ## Usage
 
