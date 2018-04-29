@@ -5,7 +5,7 @@ A simplest script to get last posts from Facebook pages.
 ## Usage
 
 1. Clone the repositiory.
-2. Edit the ```config.ini``` file with your configuration.
+2. Edit the ```config.php``` file with your configuration.
 3. Run the ```index.php``` script.
 
 ## Note

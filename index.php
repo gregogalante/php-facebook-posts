@@ -1,6 +1,6 @@
 <?php
 
-$config = parse_ini_file("config.ini");
+require_once('./config.php');
 
 function _fetchUrl($url) {
   $ch = curl_init();
